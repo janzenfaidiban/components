@@ -21,6 +21,9 @@ Merupakan bagian kecil dari suatu halaman
     ├── banner.html             # Banner
     └── README.md
 
+Hasil bisa dilihat di sini
+https://janzenfaidiban.github.io/components/page-sections/
+
 ## Page Examples
 
 Merupakan contoh-contoh halaman secara keseluruhan yang terdiri dari beberapa bagian.
@@ -37,3 +40,6 @@ footer
     ├── galeri-foto.html        # Galeri Foto
     ├── tim-kami.html           # Tim Kami
     ├── banner.html             # Banner
+
+Hasil bisa dilihat di sini
+https://janzenfaidiban.github.io/components/page-examples/
