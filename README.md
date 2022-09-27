@@ -23,6 +23,27 @@ Merupakan bagian kecil dari suatu halaman
     ├── tim-kami.html           # Tim Kami
     ├── banner.html             # Banner
 
+Setiap section ditempatkan di dalam container berikut
+
+```html
+
+<div class="bg-gray-50 my-9 py-9 border">
+
+    <!-- container start -->
+    <div class="container mx-auto py-9">
+        
+        <!-- 
+            tempatkan element desain 
+            di dalam sini 
+        -->
+
+    </div>
+    <!-- container end -->
+    
+</div>
+
+```
+
 Tentang Kami
 https://janzenfaidiban.github.io/components/page-sections/tentang-kami.html
 
