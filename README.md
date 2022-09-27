@@ -7,6 +7,7 @@ https://whimsical.com/sacode-tailwind-components-projects-YYuC12xg22G64niVYuUovt
 
 ## Results
 
+Hasil desain lihat di sini
 https://janzenfaidiban.github.io/components/
 
 
