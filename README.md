@@ -14,12 +14,12 @@ https://janzenfaidiban.github.io/components/
 
 Merupakan bagian kecil dari suatu halaman
 
-    .
-├── tentang-kami.html       # Tentang Kami
-├── galeri-foto.html        # Galeri Foto
-├── tim-kami.html           # Tim Kami
-├── banner.html             # Banner
-└── README.md
+        .
+    ├── tentang-kami.html       # Tentang Kami
+    ├── galeri-foto.html        # Galeri Foto
+    ├── tim-kami.html           # Tim Kami
+    ├── banner.html             # Banner
+    └── README.md
 
 ## Page Examples
 
@@ -32,7 +32,7 @@ page section <br>
 banner <br> 
 footer
 
-├── tentang-kami.html       # Tentang Kami
-├── galeri-foto.html        # Galeri Foto
-├── tim-kami.html           # Tim Kami
-├── banner.html             # Banner
+    ├── tentang-kami.html       # Tentang Kami
+    ├── galeri-foto.html        # Galeri Foto
+    ├── tim-kami.html           # Tim Kami
+    ├── banner.html             # Banner
