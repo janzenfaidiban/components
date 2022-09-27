@@ -12,10 +12,10 @@ https://janzenfaidiban.github.io/components/
 
 ## Page Sections
 
-Tentang Kami
-Galeri Foto
-Tim Kami
-Banner
+    Tentang Kami
+    Galeri Foto
+    Tim Kami
+    Banner
 
 ## Page Examples
 
