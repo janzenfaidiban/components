@@ -19,7 +19,6 @@ Merupakan bagian kecil dari suatu halaman
     ├── galeri-foto.html        # Galeri Foto
     ├── tim-kami.html           # Tim Kami
     ├── banner.html             # Banner
-    └── README.md
 
 Hasil bisa dilihat di sini
 https://janzenfaidiban.github.io/components/page-sections/
