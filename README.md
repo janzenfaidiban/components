@@ -13,6 +13,8 @@ https://janzenfaidiban.github.io/components/
 
 ## Page Sections
 
+Bagian ini dikerjakan oleh [@janzen](https://github.com/janzenfaidiban)
+
 Merupakan bagian kecil dari suatu halaman
 
     .
@@ -25,6 +27,8 @@ Hasil bisa dilihat di sini
 https://janzenfaidiban.github.io/components/page-sections/
 
 ## Page Examples
+
+Bagian ini dikerjakan oleh [@zonggonau](https://github.com/zonggonau)
 
 Merupakan contoh-contoh halaman secara keseluruhan yang terdiri dari beberapa bagian.
 
