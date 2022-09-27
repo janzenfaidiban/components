@@ -39,7 +39,7 @@ footer
     ├── tentang-kami.html       # Tentang Kami
     ├── galeri-foto.html        # Galeri Foto
     ├── tim-kami.html           # Tim Kami
-    ├── banner.html             # Banner
+    ├── hubungi-kami.html       # Hubungi Kami
 
 Hasil bisa dilihat di sini
 https://janzenfaidiban.github.io/components/page-examples/
