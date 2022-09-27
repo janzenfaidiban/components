@@ -23,8 +23,8 @@ Merupakan bagian kecil dari suatu halaman
     ├── tim-kami.html           # Tim Kami
     ├── banner.html             # Banner
 
-Hasil bisa dilihat di sini
-https://janzenfaidiban.github.io/components/page-sections/
+Tentang Kami
+https://janzenfaidiban.github.io/components/page-sections/tentang-kami.html
 
 ## Page Examples
 
